@@ -1,5 +1,5 @@
-# Un método puede llamar a otros métodos, modifica el siguiente código
-# para que al llamar a un sólo método se imprima:
+# Un metodo puede llamar a otros metodos, modifica el siguiente codigo
+# para que al llamar a un solo metodo se imprima:
 # *****
 # *****
 # *****

@@ -1,14 +1,14 @@
-# Crear un método que muestre en pantalla un saludo, el método
-# debe recibir un parámetro, si ese parámetro es el string "Hola" el
-# método debe mostrar en pantalla "Hola Mundo".
+# Crear un metodo que muestre en pantalla un saludo, el metodo
+# debe recibir un parametro, si ese parametro es el string "Hola" el
+# metodo debe mostrar en pantalla "Hola Mundo".
 
-def saludar(s)
-	if s == 'Hola'
-		puts 'Hola Mundo'
-	else
-		puts "Hola #{s}"
-	end
+def saludar(str)
+  if str == 'Hola'
+    puts 'Hola Mundo'
+  else
+    puts "Hola #{s}"
+  end
 end
 
-saludar("pepe")
-saludar("Hola")
+saludar('pepe')
+saludar('Hola')

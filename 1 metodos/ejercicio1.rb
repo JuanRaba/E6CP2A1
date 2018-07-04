@@ -1,9 +1,9 @@
-# Optimiza el código utilizando tu editor de texto.
+# Optimiza el codigo utilizando tu editor de texto.
 # hint: Debes utilizar 'rubocop'
 # y no obtener errores ni warnings.
 
-def par(x)
-  x % 2 == 0
+def par(num)
+  (num % 2).zero?
 end
 
 puts par(2)
